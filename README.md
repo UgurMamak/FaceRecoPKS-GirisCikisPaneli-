@@ -11,3 +11,5 @@ Uygulamanın çalışabilmesi için  FaceRecoPKSInterface(https://github.com/Ugu
 <p>
   Yüz tanıma işlemlerinin çalışabilmesi için EmguCV projeye eklenmelidir. Arayüz tasarımı için MaterialSkin ve MetroModernUI paketleri kullanıldı. Uygulamayı çalıştırmadan önce paketler projeye dahil edilmelidir.
 </p>
+
+<p> Proje ile ilgili yazılan makaleye ulaşmak için https://doi.org/10.31590/ejosat.727768 linkini ziyaret edebilirsiniz. </p>
